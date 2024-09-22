@@ -1,0 +1,128 @@
+!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Mi Página</h1>
+        <nav>
+            <ul>
+                <li><a href="#about"></a></li>
+                <li><a href="#projects">camiar tu mentalidad y que puedas ser un ejemplo a seguir</a></li>
+                <li><a href="#contact">juandesarrollo23@gmail.com</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Sobre mí</h2>
+        <p>Hola, soy un joven apasionado por cambiar la direccion y metalidad de quien quiera saber cual es su proposito.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Proyectos</h2>
+        <ul>
+            <li>Proyecto 1: Sitio web de ejemplo</li>
+            <li>Proyecto 2: Aplicación de tareas</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contacto</h2>
+        <p>Si deseas contactarme, puedes hacerlo a través del correo: <a href="mailto:<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Mi Página</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Sobre mí</a></li>
+                <li><a href="#projects">Proyectos</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Sobre mí</h2>
+        <p>Hola, soy un desarrollador web apasionado por la creación de sitios web simples y efectivos.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Proyectos</h2>
+        <ul>
+            <li>Proyecto 1: Sitio web de ejemplo</li>
+            <li>Proyecto 2: Aplicación de tareas</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contacto</h2>
+        <p>Si deseas contactarme, puedes hacerlo a través del correo: <a href="mailto:tucorreo@ejemplo.com"><!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Mi Página</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Sobre mí</a></li>
+                <li><a href="#projects">Proyectos</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Sobre mí</h2>
+        <p>Hola, soy un desarrollador web apasionado por la creación de sitios web simples y efectivos.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Proyectos</h2>
+        <ul>
+            <li>Proyecto 1: Sitio web de ejemplo</li>
+            <li>Proyecto 2: Aplicación de tareas</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contacto</h2>
+        <p>Si deseas contactarme, puedes hacerlo a través del correo: <a href="mailto:juandesarrollo23@gmail.com">juandesarrollo23@gmail.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mi Página Web</p>
+    </footer>
+</body>
+</html@ejemplo.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mi Página Web</p>
+    </footer>
+</body>
+</html>
+@gmail.com">tucorreo@ejemplo.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mi Página Web</p>
+    </footer>
+</body>
+</html>
